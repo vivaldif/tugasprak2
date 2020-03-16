@@ -1,0 +1,12 @@
+.app{
+	background-color: #191970;
+}
+
+.wrapper{
+	margin-top: 65%;
+	margin-bottom: 120%;
+}
+
+.warning{
+	display: none;
+}
